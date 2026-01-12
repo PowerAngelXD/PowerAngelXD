@@ -5,7 +5,7 @@
 
 email: 692732163@qq.com
 
-![FZSGBall's stats](https://github-readme-stats.vercel.app/api?username=powerangelxd)
+[![FZSGBall's GitHub stats](https://github-readme-stats.vercel.app/api?username=powerangelxd)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerangelxd)
 
