@@ -1,7 +1,7 @@
 # Hi there 👋
-I'm FZSGBall, a CS student in Huaqiao University.
+### I'm FZSGBall, a CS student in Huaqiao University.
 
-Primary languages: C++, Golang. Currently exploring **LLVM compiler development** and **Artificial Intelligence**.
+#### Primary languages: C++, Golang. Currently exploring **LLVM compiler development** and **Artificial Intelligence**.
 
 ## Personal Blog
 [FZSGBall's Blog](https://powerangelxd.github.io/)
