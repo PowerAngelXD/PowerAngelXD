@@ -6,6 +6,11 @@ Primary languages: C++, Golang. Currently exploring **LLVM compiler development*
 ## Personal Blog
 [FZSGBall's Blog](https://powerangelxd.github.io/)
 
+## WIP Projects
+**[SakuraE - a simple, compiled language based on LLVM.](https://github.com/PowerAngelXD/SakuraE)**
+
+**[urb00ks - an online book website](https://github.com/PowerAngelXD/urb00ks)**
+
 ## My Information
 ![GitHub Metrics](./github-metrics.svg?v=1)
 
