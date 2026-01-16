@@ -15,7 +15,7 @@
 ![GitHub Metrics](./github-metrics.svg?v=1)
 
 ## Activities
-![github activities](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={powerangelxd}&theme={github_dark})
+![github activities](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={PowerAngelXD}&theme={github_dark})
 
 ## Develop platforms
 ![windows](https://img.shields.io/badge/Windows%2011-333333?style=flat&logo=quarto&logoColor=white&labelColor=0078D4)
