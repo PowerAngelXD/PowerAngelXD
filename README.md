@@ -15,7 +15,7 @@
 ![GitHub Metrics](./github-metrics.svg?v=1)
 
 ## Activities
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![github activities](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={powerangelxd}&theme={github_dark})
 
 ## Develop platforms
 ![windows](https://img.shields.io/badge/Windows%2011-333333?style=flat&logo=quarto&logoColor=white&labelColor=0078D4)
