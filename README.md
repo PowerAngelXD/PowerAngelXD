@@ -11,13 +11,12 @@
 
 **[urb00ks - an online book website](https://github.com/PowerAngelXD/urb00ks)**
 
-## My Information
-![GitHub Metrics](./github-metrics.svg?v=1)
+## My Information and activities
 
-## Activities
-![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ## Develop platforms
 ![windows](https://img.shields.io/badge/Windows%2011-333333?style=flat&logo=quarto&logoColor=white&labelColor=0078D4)
