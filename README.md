@@ -15,9 +15,9 @@
 ![GitHub Metrics](./github-metrics.svg?v=1)
 
 ## Activities
-![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/city_lights/0-profile-details.svg)
+![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/city_lights/4-productive-time.svg)
+![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ## Develop platforms
 ![windows](https://img.shields.io/badge/Windows%2011-333333?style=flat&logo=quarto&logoColor=white&labelColor=0078D4)
