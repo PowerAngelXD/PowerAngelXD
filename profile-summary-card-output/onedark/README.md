@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/PowerAngelXD/PowerAngelXD/master/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    
